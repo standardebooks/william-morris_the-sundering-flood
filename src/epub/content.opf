@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-morris/the-sundering-flood</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-02-23T02:23:28Z</dc:date>
+		<meta property="dcterms:modified">2026-02-23T02:23:28Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,9 +36,9 @@
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">Separated from his true love by an uncrossable river, a young man ventures into the world hoping to find a path that will bring them together.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Young Osberne seems destined for greatness. As a fearless boy, he shows a willingness to fight. He is helped at key times in his life by a mysterious friend who briefly shows up to give aid or provide a magical gift. One day Osberne discovers a girl, Elfhild, who lives on the other side of the Sundering Flood, a strong and wide river that cannot be crossed. These two keep finding ways to secretly meet, though they can only converse over the unbridgeable gap. As they grow up, their love deepens. When violent events pull them both away from their homes and from each other, leading each one on a separate adventure, they hope that fate will somehow unite them at last.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Sundering Flood&lt;/i&gt; is the last story from &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt;, written as a single manuscript before his death. There are a few plot elements that appeared early and were never expanded on, and a few other minor plot errors that Morris was not able to correct. His daughter May Morris edited the manuscript and oversaw publication in 1897. In later editions, she added editorial brackets to note where changes and interpolations were made. These brackets were not retained for this production.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Sundering Flood&lt;/i&gt; unites an imaginary world with supernatural elements, and is likely the first of this type with a map included. These innovations would become standard in the modern fantasy genre.&lt;/p&gt;
+			&lt;p&gt;Young Osberne seems destined for greatness. As a fearless boy, he shows a willingness to fight. He’s helped at key times in his life by a mysterious friend who appears briefly to give aid or to provide magical gifts. One day Osberne discovers a girl, Elfhild, who lives on the other side of the Sundering Flood, a strong and wide river that cannot be crossed. These two keep finding ways to secretly meet, though they can only converse over the unbridgeable gap. As they grow up, their love deepens. When violent events pull them each away from their homes, and from from each other, and into adventure, they hope that fate will somehow reunite them at last.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Sundering Flood&lt;/i&gt; is the last of &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris’s&lt;/a&gt; novels, left as a manuscript before his death. The manuscript is considered unfinished: there are a few early plot elements that are never expanded upon, and some minor plot errors left uncorrected. His daughter May edited the manuscript and oversaw its publication in 1897, adding her own necessary changes to complete these unfinished threads. In later editions, she included editorial brackets to note where such changes and interpolations were made; these brackets are not retained in this edition.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Sundering Flood&lt;/i&gt; is one of the first novels to overlay supernatural elements over an imaginary world, and is also likely to be the first novel in its genre to include a map of its world as a frontispiece, making it a foundational text of the modern fantasy genre as we know it today.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25547</dc:source>
@@ -46,8 +46,8 @@
 		<dc:source>https://archive.org/details/sunderingflood01morruoft</dc:source>
 		<!-- Scan, Volume 2 -->
 		<dc:source>https://archive.org/details/sunderingflood02morruoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">95649</meta>
+		<meta property="se:reading-ease.flesch">72.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sundering_Flood</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-morris_the-sundering-flood</meta>
 		<dc:creator id="author">William Morris</dc:creator>
@@ -78,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
