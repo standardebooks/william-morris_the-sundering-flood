@@ -59,7 +59,6 @@
 		<meta property="file-as" refines="#illustrator-1">Cribb, H. W.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#illustrator-1">http://id.loc.gov/authorities/names/n83139113</meta>
 		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
-		<meta property="display-seq" refines="#illustrator-1">0</meta>
 		<dc:contributor id="artist">Ferdinand von Wright</dc:contributor>
 		<meta property="file-as" refines="#artist">Wright, Ferdinand von</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ferdinand_von_Wright</meta>
