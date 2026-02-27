@@ -46,7 +46,7 @@
 		<dc:source>https://archive.org/details/sunderingflood01morruoft</dc:source>
 		<!-- Scan, Volume 2 -->
 		<dc:source>https://archive.org/details/sunderingflood02morruoft</dc:source>
-		<meta property="se:word-count">95649</meta>
+		<meta property="se:word-count">95650</meta>
 		<meta property="se:reading-ease.flesch">72.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sundering_Flood</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-morris_the-sundering-flood</meta>
