@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-morris/the-sundering-flood</dc:identifier>
 		<dc:date>2026-02-23T02:23:28Z</dc:date>
@@ -35,12 +35,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047145</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:description id="description">Separated from his true love by an uncrossable river, a young man ventures into the world hoping to find a path that will bring them together.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Separated from his true love by an uncrossable river, a young man ventures into the world hoping to find a path that will bring them together.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Young Osberne seems destined for greatness. As a fearless boy, he shows a willingness to fight. He’s helped at key times in his life by a mysterious friend who appears briefly to give aid or to provide magical gifts. One day Osberne discovers a girl, Elfhild, who lives on the other side of the Sundering Flood, a strong and wide river that cannot be crossed. These two keep finding ways to secretly meet, though they can only converse over the unbridgeable gap. As they grow up, their love deepens. When violent events pull them each away from their homes, and from from each other, and into adventure, they hope that fate will somehow reunite them at last.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Sundering Flood&lt;/i&gt; is the last of &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris’s&lt;/a&gt; novels, left as a manuscript before his death. The manuscript is considered unfinished: there are a few early plot elements that are never expanded upon, and some minor plot errors left uncorrected. His daughter May edited the manuscript and oversaw its publication in 1897, adding her own necessary changes to complete these unfinished threads. In later editions, she included editorial brackets to note where such changes and interpolations were made; these brackets are not retained in this edition.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Sundering Flood&lt;/i&gt; is one of the first novels to overlay supernatural elements over an imaginary world, and is also likely to be the first novel in its genre to include a map of its world as a frontispiece, making it a foundational text of the modern fantasy genre as we know it today.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25547</dc:source>
 		<!-- Scan, Volume 1 -->
