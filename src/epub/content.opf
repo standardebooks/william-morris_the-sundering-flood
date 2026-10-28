@@ -60,6 +60,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="illustrator-1">H. W. Cribb</dc:contributor>
 		<meta property="file-as" refines="#illustrator-1">Cribb, H. W.</meta>
+		<meta property="schema:alternateName" refines="#illustrator-1">Herbert William Cribb</meta>
 		<link href="https://id.loc.gov/authorities/names/n83139113.html" refines="#illustrator-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Ferdinand von Wright</dc:contributor>
