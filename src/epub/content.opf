@@ -73,7 +73,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
-		<link href="https://jasonlivermore.wordpress.com/ebooks" refines="#producer-1" rel="schema:url"/>
+		<link href="https://www.linkedin.com/in/jason-livermore-b854a97" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
